@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import earthquakes from '../data/earthquakes';
+// import earthquakes from '../data/earthquakes';
 import EarthquakeInfo from './EarthquakeInfo';
 import 'whatwg-fetch';
 import '../styles/App.css';
